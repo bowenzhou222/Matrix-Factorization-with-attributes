@@ -1,5 +1,7 @@
 # Matrix-Factorization-with-attributes
 
+Datasets can be downloaded from MovieLens<br />
+
 Firstly compile the MF.c by gcc MF.c -o MF<br />
 Rename the Movielens 100K dataset to udata.txt<br />
 
